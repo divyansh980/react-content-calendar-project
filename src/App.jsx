@@ -1,3 +1,6 @@
+/* The above code is a React component named `ContentCalendarPlanner` that serves as a content
+planner/calendar interface. It uses state variables to manage the current date, content data, adding
+content mode, selected date, editing content, and new content input fields. */
 import React, { useState } from 'react';
 import { Calendar, Plus, Trash2, Save, X, PlusCircle, PlusSquare } from 'lucide-react';
 
